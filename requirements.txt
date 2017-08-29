@@ -6,6 +6,7 @@ click==6.7
 Flask==0.12.2
 fuzzywuzzy==0.15.1
 gnewsclient==1.0.2
+gunicorn==19.7.1
 html5lib==0.999999999
 idna==2.6
 itsdangerous==0.24
